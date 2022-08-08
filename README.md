@@ -8,3 +8,7 @@ WIP: this repo contains notebooks with time series analysis and forecasting
 Data was downloaded from https://en.ilmatieteenlaitos.fi/download-observations
 
 - uspopulation.csv: population in the US dataset
+
+- DailyTotalFemaleBirths.csv: number of births
+
+- co2_mm_mlo.csv: amount of CO2 in Hawawii
