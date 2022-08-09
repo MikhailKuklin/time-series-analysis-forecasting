@@ -11,4 +11,6 @@ Data was downloaded from https://en.ilmatieteenlaitos.fi/download-observations
 
 - DailyTotalFemaleBirths.csv: the number of daily female births in California in 1959
 
+Source: Time Series Data Library (citing: Newton (1988))
+
 - co2_mm_mlo.csv: amount of CO2 in Hawawii
