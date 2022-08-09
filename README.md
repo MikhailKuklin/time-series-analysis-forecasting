@@ -9,6 +9,6 @@ Data was downloaded from https://en.ilmatieteenlaitos.fi/download-observations
 
 - uspopulation.csv: population in the US dataset
 
-- DailyTotalFemaleBirths.csv: number of births
+- DailyTotalFemaleBirths.csv: the number of daily female births in California in 1959
 
 - co2_mm_mlo.csv: amount of CO2 in Hawawii
