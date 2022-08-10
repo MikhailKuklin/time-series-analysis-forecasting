@@ -1,7 +1,12 @@
-# time-series-analysis-forecasting
-WIP: this repo contains notebooks with time series analysis and forecasting
+# Implementaiton of time series analysis and forecasting with Python 
 
-**/data**
+Repo contains set of notebooks with time series analysis and forecasting using Python
+
+# /notebooks
+
+
+
+# /data
 
 - espoo_2020_2022.csv: dataset contains temperatues measured in 2020-2022 in Espoo, Tapiola (Finland)
 
