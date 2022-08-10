@@ -2,6 +2,8 @@
 
 Repo contains set of notebooks with time series analysis and forecasting using Python
 
+Some parts may be a copyrights to Pierian Data Inc. for 'Python for Time Series Data Analysis' course in Udemy.
+
 ## /notebooks
 
 **01_ts_data_visualization_preprocessing.ipynb**:basic data manipulations operations and useful visualization of time series data
