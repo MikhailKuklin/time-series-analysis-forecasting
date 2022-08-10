@@ -4,6 +4,15 @@ Repo contains set of notebooks with time series analysis and forecasting using P
 
 ## /notebooks
 
+**01_ts_data_visualization_preprocessing.ipynb**:basic data manipulations operations and useful visualization of time series data
+
+**02_ts_analysis_statsmodels.ipynb**: applying of time series techniques to study the data using *statsmodels* library (ETR, EWMA, Holt-Winters method)
+
+**03_ts_forecasting.ipynb**: implementation of forecasting methods (ARMA, ARIMA, SARIMA)
+
+**04_ts_deep_learning_forecast.ipynb**: applying of RNN using Keras for time series data
+
+**05_ts_prophet.ipynb**: basic usage of prophet library
 
 
 ## /data
